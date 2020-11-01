@@ -1,0 +1,26 @@
+.rounded-circle {
+    width: 200px;
+}
+
+img {
+    max-width: 960px;
+}
+
+body {
+    background-color: #fffcfc;
+    color: #333 !important;
+}
+
+.text-wd {
+    color: #333;
+}
+
+.lead {
+    color: #333;
+}
+
+@media (max-width: 500px) {
+    img {
+        max-width: 335px;
+    }
+}
