@@ -72,9 +72,9 @@ WSGI_APPLICATION = 'afre.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'afredb',
-        'USER': 'postgres',
-        'PASSWORD': 'OPENthewindow@007',
+        'NAME': '*******',
+        'USER': '**********',
+        'PASSWORD': '***************',
         'HOST': 'localhost'
     }
 }
